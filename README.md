@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Radmehr
 
-<!--
-**1radmo/1radmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently completing an LLM in Law & Finance at the University of Amsterdam and law and technology at Tilburg University, where I combine a strong legal foundation with an interest in finance, technology, and data.
 
-Here are some ideas to get you started:
+💼 I'm passionate about the intersection of law, finance, and code — especially in areas like , financial regulation, ESG transparency, and decentralised finance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I started coding in middle school with small projects for fun. Now I mostly enjoy building tools to explore legal-financial data, clean documents, and experiment with natural language processing (NLP).
+
+---
+## 🔧 Tech Stack
+- 🐍 Python (pandas, pygame, XlsxWriter, etc.)
+- Google Colab
+- Jupyter Notebooks
